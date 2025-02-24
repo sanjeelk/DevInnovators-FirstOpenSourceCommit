@@ -42,3 +42,4 @@ Name: Sanya Pruthi, Roll: 27156, Branch: CSE, Section: 3, Email: sanyapruthi1507
 Name: Aarushi Prajapati , Roll: 27002, Branch:CSE,section: 1 , Email: arushik327@gmail.com
 Name: Rohan, Roll: 27360, Branch: AIML, Section: 3, Email: rohansingh.cyberking@gmail.com
 Name: Riya Sharma, Roll:27359, Branch:AIML, Section:3, Email:riya989166@gmail.com
+Name: Sanjeel kumar, Roll:27374, Branch:AIML, Section:3, Email:sanjeel2007@gmail.com
